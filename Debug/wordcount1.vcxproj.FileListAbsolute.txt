@@ -1,0 +1,2 @@
+F:\shiyan\ruangongshiyan\wordcount1\Debug\wordcount1.exe
+F:\shiyan\ruangongshiyan\wordcount1\Debug\wordcount1.pdb
